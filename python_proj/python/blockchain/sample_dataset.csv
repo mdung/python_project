@@ -1,0 +1,11 @@
+feature1,feature2,categorical_feature1,categorical_feature2,label
+1.2,3.4,A,High,Normal
+5.6,7.8,B,Low,Normal
+9.0,1.2,A,Medium,Suspicious
+3.4,5.6,C,High,Normal
+7.8,9.0,B,Low,Suspicious
+1.2,3.4,C,Medium,Normal
+5.6,7.8,A,High,Suspicious
+9.0,1.2,B,Low,Normal
+3.4,5.6,C,Medium,Suspicious
+7.8,9.0,A,High,Normal

@@ -1,0 +1,187 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Quantum Physics articles on Arxiv 1994 to 2009 | Kaggle</title>
+  <meta charset="utf-8" />
+    <meta name="robots" content="index, follow" />
+  <meta name="description" content="Kaggle is the world&#x2019;s largest data science community with powerful tools and resources to help you achieve your data science goals." />
+  <meta name="turbolinks-cache-control" content="no-cache" />
+    <meta name="keywords" content="education,nlp,physics" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
+  <meta name="theme-color" content="#008ABC" />
+  <script nonce="8VZkIGIz1spp6GSOdiz9ig==" type="text/javascript">
+    window["pageRequestStartTime"] = 1701507603370;
+    window["pageRequestEndTime"] = 1701507603608;
+    window["initialPageLoadStartTime"] = new Date().getTime();
+  </script>
+  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="anonymous" /><link rel="preconnect" href="https://stats.g.doubleclick.net" /><link rel="preconnect" href="https://storage.googleapis.com" /><link rel="preconnect" href="https://apis.google.com" />
+  <link href="/static/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="manifest" href="/static/json/manifest.json" crossorigin="use-credentials">
+
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/icon?family=Google+Material+Icons&display=block"
+    rel="preload" as="style" />
+  <link href="https://fonts.googleapis.com/css?family=Inter:400,400i,500,500i,600,600i,700,700i&display=swap"
+    rel="preload" as="style" />
+  <link href="https://fonts.googleapis.com/icon?family=Google+Material+Icons&display=block"
+    rel="stylesheet" media="print" id="async-google-font-1" />
+  <link href="https://fonts.googleapis.com/css?family=Inter:400,400i,500,500i,600,600i,700,700i&display=swap"
+    rel="stylesheet" media="print" id="async-google-font-2" />
+  <script nonce="8VZkIGIz1spp6GSOdiz9ig==" type="text/javascript">
+    const styleSheetIds = ["async-google-font-1", "async-google-font-2"];
+    styleSheetIds.forEach(function (id) {
+      document.getElementById(id).addEventListener("load", function() {
+        this.media = "all";
+      });
+    });
+  </script>
+
+    <link rel="canonical" href="https://www.kaggle.com/datasets/louise2001/quantum-physics-articles-on-arxiv-1994-to-2009" />
+    <link rel="stylesheet" type="text/css" href="/static/assets/vendor.css?v=7ab5aac43193369ca22e" />
+    <link rel="stylesheet" type="text/css" href="/static/assets/app.css?v=571625ccb36e548ec646" />
+  
+    
+ 
+      <script nonce="8VZkIGIz1spp6GSOdiz9ig==">
+        try{(function(a,s,y,n,c,h,i,d,e){d=s.createElement("style");
+        d.appendChild(s.createTextNode(""));s.head.appendChild(d);d=d.sheet;
+        y=y.map(x => d.insertRule(x + "{ opacity: 0 !important }"));
+        h.start=1*new Date;h.end=i=function(){y.forEach(x => x<d.cssRules.length ? d.deleteRule(x) : {})};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document,['.site-header-react__nav'],'dataLayer',2000,{'GTM-52LNT9S':true});}catch(ex){}
+    </script>
+    <script nonce="8VZkIGIz1spp6GSOdiz9ig==">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-T7QHS60L4Q', {
+            'optimize_id': 'GTM-52LNT9S',
+            'displayFeaturesTask': null,
+            'send_page_view': false,
+            'content_group1': 'Datasets'
+        });
+    </script>
+    <script nonce="8VZkIGIz1spp6GSOdiz9ig==" async src="https://www.googletagmanager.com/gtag/js?id=G-T7QHS60L4Q"></script>
+
+  
+    
+    <meta property="og:url" content="https://www.kaggle.com/datasets/louise2001/quantum-physics-articles-on-arxiv-1994-to-2009" />
+    <meta property="og:title" content="Quantum Physics articles on Arxiv 1994 to 2009" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-78.png-3612572/dataset-card.png" />
+    <meta property="fb:app_id" content="2665027677054710" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@kaggledatasets" />
+
+
+  <meta name="twitter:site" content="@Kaggle" /> 
+  
+    
+            <script nonce="8VZkIGIz1spp6GSOdiz9ig==" type="application/ld+json">{"@context":"http://schema.org/","@type":"Dataset","name":"Quantum Physics articles on Arxiv 1994 to 2009","description":"# Dataset\nThis dataset was created by Loulou\n\n# Contents\n","url":"https://www.kaggle.com/louise2001/quantum-physics-articles-on-arxiv-1994-to-2009","version":2,"keywords":["subject, people and society, education","analysis, nlp","subject, earth and nature, physical science, physics"],"license":{"@type":"CreativeWork","name":"Unknown","url":""},"identifier":["487588"],"includedInDataCatalog":{"@type":"DataCatalog","name":"Kaggle","url":"https://www.kaggle.com"},"creator":{"@type":"Person","name":"Loulou","url":"https://www.kaggle.com/louise2001","image":"https://storage.googleapis.com/kaggle-avatars/thumbnails/3612572-kg.jpg"},"distribution":[{"@type":"DataDownload","requiresSubscription":true,"encodingFormat":"zip","fileFormat":"zip","contentUrl":"https://www.kaggle.com/datasets/louise2001/quantum-physics-articles-on-arxiv-1994-to-2009/download?datasetVersionNumber=2","contentSize":"32779656 bytes"}],"commentCount":0,"dateModified":"2020-06-02T13:34:34.867Z","discussionUrl":"https://www.kaggle.com/louise2001/quantum-physics-articles-on-arxiv-1994-to-2009/discussion","alternateName":"","isAccessibleForFree":true,"thumbnailUrl":"https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-78.png-3612572/dataset-card.png","interactionStatistic":[{"@type":"InteractionCounter","interactionType":"http://schema.org/CommentAction","userInteractionCount":0},{"@type":"InteractionCounter","interactionType":"http://schema.org/DownloadAction","userInteractionCount":603},{"@type":"InteractionCounter","interactionType":"http://schema.org/ViewAction","userInteractionCount":8960},{"@type":"InteractionCounter","interactionType":"http://schema.org/LikeAction","userInteractionCount":28}]}</script>
+        
+
+  
+    
+
+  
+    
+
+
+    <script nonce="8VZkIGIz1spp6GSOdiz9ig==">window['useKaggleAnalytics'] = true;</script>
+
+  <script id="gapi-target" nonce="8VZkIGIz1spp6GSOdiz9ig==" src="https://apis.google.com/js/api.js" defer
+    async></script>
+  <script nonce="8VZkIGIz1spp6GSOdiz9ig==" src="/static/assets/runtime.js?v=947efc602f2382eb5b1f" data-turbolinks-track="reload"></script>
+  <script nonce="8VZkIGIz1spp6GSOdiz9ig==" src="/static/assets/vendor.js?v=6495db0178f667c72ee8" data-turbolinks-track="reload"></script>
+  <script nonce="8VZkIGIz1spp6GSOdiz9ig==" src="/static/assets/app.js?v=cb5c3ed2e6a2dd4f618f" data-turbolinks-track="reload"></script>
+    <script nonce="8VZkIGIz1spp6GSOdiz9ig==" type="text/javascript">
+      window.kaggleStackdriverConfig = {
+        key: 'AIzaSyA4eNqUdRRskJsCZWVz-qL655Xa5JEMreE',
+        projectId: 'kaggle-161607',
+        service: 'web-fe',
+        version: 'ci',
+        userId: '0'
+      }
+    </script>
+</head>
+
+<body data-turbolinks="false">
+  <main>
+    
+
+
+
+
+
+<div id="site-container"></div>
+
+<div id="site-body" class="hide">
+    
+
+
+<script nonce="8VZkIGIz1spp6GSOdiz9ig==" type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    "HTML-CSS": {
+    preferredFont: "TeX",
+    availableFonts: ["STIX", "TeX"],
+    linebreaks: {
+    automatic: true
+    },
+    EqnChunk: (MathJax.Hub.Browser.isMobile ? 10 : 50)
+    },
+    tex2jax: {
+    inlineMath: [["\\(", "\\)"], ["\\\\(", "\\\\)"]],
+    displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+    processEscapes: true,
+    ignoreClass: "tex2jax_ignore|dno"
+    },
+    TeX: {
+    noUndefined: {
+    attributes: {
+    mathcolor: "red",
+    mathbackground: "#FFEEEE",
+    mathsize: "90%"
+    }
+    }
+    },
+    Macros: {
+    href: "{}"
+    },
+    skipStartupTypeset: true,
+    messageStyle: "none",
+    extensions: ["Safe.js"],
+    });
+</script>
+<script type="text/javascript" nonce="8VZkIGIz1spp6GSOdiz9ig==">
+  window.addEventListener("DOMContentLoaded", () => {
+    const head = document.getElementsByTagName("head")[0];
+    const useProdHosts = ["www.kaggle.com", "admin.kaggle.com"];
+    const subdomain = useProdHosts.includes(window.location.hostname) ? "www" : "staging";
+
+    const lib = document.createElement("script");
+    lib.type = "text/javascript";
+    lib.src = `https://${subdomain}.kaggleusercontent.com/static/mathjax/2.7.9/MathJax.js?config=TeX-AMS-MML_HTMLorMML`;
+    head.appendChild(lib);
+  });
+</script>
+
+
+
+
+
+
+</div>
+
+
+
+
+  </main>
+</body>
+
+</html>
