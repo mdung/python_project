@@ -1,8 +1,0 @@
-2023-12-01 10:05:23 [INFO] Application started
-2023-12-01 10:08:45 [ERROR] Critical error occurred: Unable to connect to the database
-2023-12-01 10:10:12 [INFO] User 'john_doe' logged in
-2023-12-01 10:12:30 [WARNING] Disk space is running low
-2023-12-01 10:15:17 [ERROR] Database connection lost
-2023-12-01 10:18:42 [DEBUG] Processing request: /api/data
-2023-12-01 10:20:55 [ERROR] Invalid input received from user 'alice_smith'
-2023-12-01 10:23:10 [INFO] Application stopped

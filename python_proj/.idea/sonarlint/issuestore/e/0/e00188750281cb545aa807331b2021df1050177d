@@ -1,5 +1,0 @@
-
-qpython:S1192%"MDefine a constant instead of duplicating this literal "Patient Name" 3 times.(ìëÊæúÿÿÿÿ8õîòšÇ1
-rpython:S1192%"NDefine a constant instead of duplicating this literal "Triage Status" 3 times.(ìëÊæúÿÿÿÿ8õîòšÇ1
-Ipython:S1481G"+Remove the unused local variable "patient".(¡µ58õîòšÇ1
-Ppython:S1172S"1Remove the unused function parameter "condition".(É²á©8õîòšÇ1
